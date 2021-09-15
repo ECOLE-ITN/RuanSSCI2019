@@ -7,7 +7,7 @@ clc
 functions = {'FDA4', 'FDA5', 'FDA5_iso', 'FDA5_dec', 'DIMP2', 'dMOP2', ...
      'dMOP2_iso', 'dMOP2_dec', 'dMOP3', 'HE2', 'HE7', 'HE9'};
 
-for testfunc = 5
+for testfunc = 1:12
     clearvars -except functions testfunc
     
     %% step 1. Initialize objective functions
