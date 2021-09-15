@@ -1,3 +1,8 @@
+
+[![DOI](https://zenodo.org/badge/406303575.svg)](https://zenodo.org/badge/latestdoi/406303575)
+
+
+
 %% NOTES
 % This package contains the source codes of the paper 
 %   "Ruan, G., Minku, L. L., Menzel, S., Sendhoff, B., & Yao, X. (2019, December). When and how
