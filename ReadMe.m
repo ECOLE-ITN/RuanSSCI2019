@@ -4,14 +4,14 @@
 %   to transfer knowledge in dynamic multi-objective optimisation. In 2019 IEEE Symposium Series
 %   on Computational Intelligence (SSCI) (pp. 2034-2041). IEEE,"
 % which is modified from the code of the paper 
-%  ¡¶Jiang M, Huang Z, Qiu L, et al. Transfer Learning based Dynamic Multiobjective Optimization Algorithms¡·
+%   "Jiang M, Huang Z, Qiu L, et al. Transfer Learning based Dynamic Multiobjective Optimization Algorithms"
 % 
 %% 
 % <html><h2>Benchmark functions</h2></html>
 %
 % * <benchmark%20functions\html\getFunc.html getfunc.m>,  returns benchmark functions of the paper
 %
-%  ¡¶Benchmark Functions for CEC 2015 Special Session and Competition on Dynamic Multi-objective Optimization¡·
+%  Â¡Â¶Benchmark Functions for CEC 2015 Special Session and Competition on Dynamic Multi-objective OptimizationÂ¡Â·
 % 
 %% 
 % <html><h2>Metrices</h2></html>
